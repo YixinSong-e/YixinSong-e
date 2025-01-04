@@ -3,7 +3,9 @@
 ![stars_of_collaborator](https://img.shields.io/github/stars/yixinsong-e?affiliations=COLLABORATOR&style=social)
 ![followers](https://img.shields.io/github/followers/yixinsong-e?style=social)
 
-Welcome to my GitHub profile. I am currently a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU). My research focuses on Large Language Model Systems (LLMSys), with particular emphasis on local LLM deployment and optimization.
+Welcome to my GitHub profile. I am currently a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU). 
+
+My research focuses on Large Language Model Systems (LLMSys), with particular emphasis on local LLM deployment and optimization.
 
 <table width="100%">
   <tr>
