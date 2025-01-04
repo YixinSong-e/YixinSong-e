@@ -5,7 +5,6 @@
 
 Welcome to my GitHub profile. I am currently a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU). My research focuses on Large Language Model Systems (LLMSys), with particular emphasis on local LLM deployment and optimization.
 
-### 📎 Information
 <table width="100%">
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://yixinsong-e.github.io/" target="_blank">yixinsong-e.github.io</a></td>
