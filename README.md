@@ -11,7 +11,8 @@ My research focuses on LLMSys, with particular emphasis on local LLM deployment 
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://yixinsong-e.github.io/" target="_blank">yixinsong-e.github.io</a></td>
     <td>🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=wl8inS4AAAAJ&hl=en" target="_blank">Yixin Song (宋奕欣)</a></td>
-    <td>📧 Email: <a href="jeremysyx@gmail.com" target="_blank">jeremysyx@gmail.com</a></td>
+    <td>🤗 HuggingFace: <a href="https://huggingface.co/yixinsong" target="_blank">huggingface.co/yixinsong</a></td>
+    <td>📧 Email: jeremysyx@gmail.com</td>
   </tr>
 	
 </table>
