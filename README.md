@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋  Hello! I'm [Jeremy Song](https://yixinsong-e.github.io/)
 
-<!--
-**YixinSong-e/YixinSong-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![stars_of_collaborator](https://img.shields.io/github/stars/yixinsong-e?affiliations=COLLABORATOR&style=social)
+![followers](https://img.shields.io/github/followers/yixinsong-e?style=social)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I am currently a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU). My research focuses on Large Language Model Systems (LLMSys), with particular emphasis on local LLM deployment and optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📎 Information
+<table width="100%">
+  <tr>
+    <td>🏠 <b>Homepage</b>: <a href="https://yixinsong-e.github.io/" target="_blank">yixinsong-e.github.io</a></td>
+    <td>🎓 Google Scholar: <a href="https://scholar.google.com/citations?user=wl8inS4AAAAJ&hl=en" target="_blank">Yixin Song (宋奕欣)</a></td>
+    <td>📧 Email: <a href="jeremysyx@gmail.com" target="_blank">jeremysyx@gmail.com</a></td>
+  </tr>
+	
+</table>
+
+
+
+
+
