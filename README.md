@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile. I am currently a third-year Ph.D. student at Shanghai Jiao Tong University (SJTU). 
 
-My research focuses on LLMSys, with particular emphasis on local LLM deployment and optimization.
+My research focuses on LLM and LLMSys, with particular emphasis on local LLM deployment and optimization.
 
 <table width="100%">
 	<tr>
